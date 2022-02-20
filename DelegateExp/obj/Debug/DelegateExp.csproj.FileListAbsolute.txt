@@ -1,0 +1,7 @@
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\bin\Debug\DelegateExp.exe.config
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\bin\Debug\DelegateExp.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\bin\Debug\DelegateExp.pdb
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\obj\Debug\DelegateExp.csproj.AssemblyReference.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\obj\Debug\DelegateExp.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\obj\Debug\DelegateExp.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\DelegateExp\obj\Debug\DelegateExp.pdb

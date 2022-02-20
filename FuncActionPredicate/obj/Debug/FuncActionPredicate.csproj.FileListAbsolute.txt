@@ -1,0 +1,7 @@
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe.config
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\bin\Debug\FuncActionPredicate.pdb
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.AssemblyReference.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\obj\Debug\FuncActionPredicate.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\obj\Debug\FuncActionPredicate.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\FuncActionPredicate\obj\Debug\FuncActionPredicate.pdb

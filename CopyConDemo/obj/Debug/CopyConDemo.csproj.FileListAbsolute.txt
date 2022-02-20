@@ -1,0 +1,7 @@
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\obj\Debug\CopyConDemo.csproj.AssemblyReference.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\obj\Debug\CopyConDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\bin\Debug\CopyConDemo.exe.config
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\bin\Debug\CopyConDemo.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\bin\Debug\CopyConDemo.pdb
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\obj\Debug\CopyConDemo.exe
+C:\Users\HP PC\Desktop\DotNet CDAC\My Practise\Practise\CopyConDemo\obj\Debug\CopyConDemo.pdb
